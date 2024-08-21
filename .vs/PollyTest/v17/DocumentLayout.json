@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|c:\\users\\a2646577\\source\\repos\\pollytest\\pollytest\\taxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|solutionrelative:pollytest\\taxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|c:\\users\\a2646577\\source\\repos\\pollytest\\pollytest\\printresiliencepipelinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|solutionrelative:pollytest\\printresiliencepipelinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|c:\\users\\a2646577\\source\\repos\\pollytest\\pollytest\\httprequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|solutionrelative:pollytest\\httprequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|c:\\users\\a2646577\\source\\repos\\pollytest\\pollytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92A4AB6-24B2-480A-B0E5-50124583AEA6}|PollyTest\\PollyTest.csproj|solutionrelative:pollytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\Program.cs",
+              "RelativeDocumentMoniker": "PollyTest\\Program.cs",
+              "ToolTip": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\Program.cs",
+              "RelativeToolTip": "PollyTest\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:27:05.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxData.cs",
+              "DocumentMoniker": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\TaxData.cs",
+              "RelativeDocumentMoniker": "PollyTest\\TaxData.cs",
+              "ToolTip": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\TaxData.cs",
+              "RelativeToolTip": "PollyTest\\TaxData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:48:43.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\HttpRequestHandler.cs",
+              "RelativeDocumentMoniker": "PollyTest\\HttpRequestHandler.cs",
+              "ToolTip": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\HttpRequestHandler.cs",
+              "RelativeToolTip": "PollyTest\\HttpRequestHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvx8AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:32:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintResiliencePipelineBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\PrintResiliencePipelineBuilder.cs",
+              "RelativeDocumentMoniker": "PollyTest\\PrintResiliencePipelineBuilder.cs",
+              "ToolTip": "C:\\Users\\a2646577\\source\\repos\\PollyTest\\PollyTest\\PrintResiliencePipelineBuilder.cs",
+              "RelativeToolTip": "PollyTest\\PrintResiliencePipelineBuilder.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:31:03.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
